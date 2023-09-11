@@ -1,0 +1,15 @@
+E:\New folder (6)\IFF\IFF\bin\Debug\net6.0\IFF.exe
+E:\New folder (6)\IFF\IFF\bin\Debug\net6.0\IFF.deps.json
+E:\New folder (6)\IFF\IFF\bin\Debug\net6.0\IFF.runtimeconfig.json
+E:\New folder (6)\IFF\IFF\bin\Debug\net6.0\IFF.dll
+E:\New folder (6)\IFF\IFF\bin\Debug\net6.0\IFF.pdb
+E:\New folder (6)\IFF\IFF\obj\Debug\net6.0\IFF.csproj.AssemblyReference.cache
+E:\New folder (6)\IFF\IFF\obj\Debug\net6.0\IFF.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (6)\IFF\IFF\obj\Debug\net6.0\IFF.AssemblyInfoInputs.cache
+E:\New folder (6)\IFF\IFF\obj\Debug\net6.0\IFF.AssemblyInfo.cs
+E:\New folder (6)\IFF\IFF\obj\Debug\net6.0\IFF.csproj.CoreCompileInputs.cache
+E:\New folder (6)\IFF\IFF\obj\Debug\net6.0\IFF.dll
+E:\New folder (6)\IFF\IFF\obj\Debug\net6.0\refint\IFF.dll
+E:\New folder (6)\IFF\IFF\obj\Debug\net6.0\IFF.pdb
+E:\New folder (6)\IFF\IFF\obj\Debug\net6.0\IFF.genruntimeconfig.cache
+E:\New folder (6)\IFF\IFF\obj\Debug\net6.0\ref\IFF.dll
